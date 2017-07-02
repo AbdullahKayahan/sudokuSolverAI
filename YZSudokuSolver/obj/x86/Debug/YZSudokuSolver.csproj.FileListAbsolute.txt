@@ -1,0 +1,9 @@
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.Form1.resources
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.Properties.Resources.resources
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.csproj.GenerateResource.Cache
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\bin\Debug\YZSudokuSolver.exe
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\bin\Debug\YZSudokuSolver.pdb
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.exe
+c:\users\abdullah\documents\visual studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\obj\x86\Debug\YZSudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Documents\Visual Studio 2010\Projects\YZSudokuSolver\YZSudokuSolver\bin\Debug\YZSudokuSolver.exe.config
